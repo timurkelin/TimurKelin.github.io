@@ -17,6 +17,14 @@ AbstractAbstractAbstractAbstractAbstractAbstract
 - Keywords:
 SIMD, Single Instruction Multiple Data ASIP, Application Specific Instruction Processor, Vector Processor Architecture, Data Driven Design, Cycle Accurate Simulation, System Simulation, Model Based Development and Optimization, SystemC
 
+### multicore
+SystemC Simulation of the Static Scheduler
+- [GitHub link](https://github.com/timurkelin/multitask-multicore)
+- Abstract: 
+AbstractAbstractAbstractAbstractAbstractAbstract
+- Keywords:
+multitasking, multicore, Static scheduler, SystemC
+
 ### eclipse-gdb-mex
 Development and debugging MEX-Functions with Eclipse IDE and GDB. 
 - [GitHub link](https://github.com/timurkelin/eclipse-gdb-mex)
@@ -25,10 +33,4 @@ Demo project contains C source code of the exemplar mex-function, make script an
 - Keywords:
 Matlab, MEX, GCC, GDB, Eclipse, make, demo
 
-### multicore
-SystemC Simulation of the Static Scheduler
-- [GitHub link](https://github.com/timurkelin/multitask-multicore)
-- Abstract: 
-AbstractAbstractAbstractAbstractAbstractAbstract
-- Keywords:
-multitasking, multicore, Static scheduler, SystemC
+
