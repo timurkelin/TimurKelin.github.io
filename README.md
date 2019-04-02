@@ -23,7 +23,7 @@ SystemC Simulation of the Static Scheduler
 - Abstract: 
 AbstractAbstractAbstractAbstractAbstractAbstract
 - Keywords:
-multitasking, multicore, Static scheduler, SystemC
+multitasking, multicore, static scheduler, loosely timed model, systemc
 
 ### eclipse-gdb-mex
 Development and debugging MEX-Functions with Eclipse IDE and GDB. 
