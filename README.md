@@ -15,7 +15,7 @@ Development and simulation framework for Application Specific Vector Processor
 - Abstract: 
 AbstractAbstractAbstractAbstractAbstractAbstract
 - Keywords:
-Keywords: Vector Processor Architecture, SIMD, Single Instruction Multiple Data, ASIP, Application Specific Instruction Processor, NOC, Network On Chip, Data Driven Design, Cycle Accurate Simulation, System Simulation, Model Based Development and Optimization, SystemC
+Vector Processor Architecture, SIMD, Single Instruction Multiple Data, ASIP, Application Specific Instruction Processor, NOC, Network On Chip, Data Driven Design, Cycle Accurate Simulation, System Simulation, Model Based Development and Optimization, SystemC
 
 ### multicore
 SystemC Simulation of the Static Scheduler
