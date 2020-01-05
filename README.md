@@ -15,15 +15,23 @@ Development and simulation framework for Application Specific Vector Processor
 - Abstract: 
 AbstractAbstractAbstractAbstractAbstractAbstract
 - Keywords:
-Vector Processor Architecture, SIMD, Single Instruction Multiple Data, ASIP, Application Specific Instruction Processor, NOC, Network On Chip, Data Driven Design, Cycle Accurate Simulation, System Simulation, Model Based Development and Optimization, SystemC
+Vector Processor Architecture, SIMD, Single Instruction Multiple Data, ASIP, Application Specific Instruction Processor, NoC, Network on Chip, Data Driven Design, Cycle Accurate Simulation, System Simulation, Model Based Development and Optimization, SystemC
 
-### multicore
-SystemC Simulation of the Static Scheduler
-- [GitHub link](https://github.com/timurkelin/multitask-multicore)
+### simSCHD
+Evaluation of the Static Scheduling and Timing Budget
+- [GitHub link](https://github.com/timurkelin/simschd)
 - Abstract: 
 AbstractAbstractAbstractAbstractAbstractAbstract
 - Keywords:
-Multitasking, Multicore, Static Scheduler, Loosely Timed Model, SystemC
+Multitasking, Multicore, SystemC, ltm, loosely timed model, Timing Budget, Static Scheduler, Timing Constraints, Timing Model, System Simulation, Model Based Development and Optimization, Hard Real Time
+
+### CoSim
+Co-simulation of the simSCHD static scheduler and simSIMD vector processor
+- [GitHub link](https://github.com/timurkelin/cosim)
+- Abstract: 
+AbstractAbstractAbstractAbstractAbstractAbstract
+- Keywords:
+KeywordsKeywordsKeywordsKeywords
 
 ### eclipse-gdb-mex
 Development and debugging MEX-Functions with Eclipse IDE and GDB. 
